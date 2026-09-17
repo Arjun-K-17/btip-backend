@@ -12,3 +12,4 @@ pydantic
 pytest
 httpx
 google-genai
+SQLAlchemy
